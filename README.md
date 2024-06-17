@@ -5,7 +5,7 @@
 
 This is a set of useful hotkey macros for daily work. We will use scripts with bash + AppleScripts for that. Let's start with an [example using Google](./.skhdrc):
 
-- Easy way to return to your meeting in Meet? <kbd>Alt</kbd>+<kbd>e</kbd> (mnemonic for Meet)
+- Easy way to return to your meeting in Meet? <kbd>Alt</kbd>+<kbd>m</kbd> (mnemonic for Meet)
 - Check email? <kbd>Alt</kbd>+<kbd>e</kbd>
 - Schedule a new meeting in Calendar? <kbd>Alt</kbd>+<kbd>c</kbd>
 
