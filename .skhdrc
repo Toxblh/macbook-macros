@@ -1,0 +1,3 @@
+alt - m : ~/scripts/activate-chrome.sh meet.google.com
+alt - c : ~/scripts/activate-chrome.sh calendar.google.com
+alt - e : ~/scripts/activate-chrome.sh mail.google.com
