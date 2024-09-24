@@ -8,6 +8,7 @@
 - Легкий способ вернуться на встречу в Meet? <kbd>Alt</kbd>+<kbd>m</kbd> (мнемоника для Meet)
 - Проверить почту? <kbd>Alt</kbd>+<kbd>e</kbd>
 - Запланировать новую встречу в Календаре? <kbd>Alt</kbd>+<kbd>c</kbd>
+- Переключить микрофон в Meet? <kbd>Alt</kbd>+<kbd>Space</kbd>
 
 Для настройки пользовательских горячих клавиш мы будем использовать [skhd](https://github.com/koekeishiya/skhd).
 
