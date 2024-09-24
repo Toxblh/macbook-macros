@@ -8,6 +8,7 @@ This is a set of useful hotkey macros for daily work. We will use scripts with b
 - Easy way to return to your meeting in Meet? <kbd>Alt</kbd>+<kbd>m</kbd> (mnemonic for Meet)
 - Check email? <kbd>Alt</kbd>+<kbd>e</kbd>
 - Schedule a new meeting in Calendar? <kbd>Alt</kbd>+<kbd>c</kbd>
+- Toggle mute of mic in Meet? <kbd>Alt</kbd>+<kbd>Space</kbd>
 
 To configure custom hotkeys, we will use [skhd](https://github.com/koekeishiya/skhd).
 
